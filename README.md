@@ -14,10 +14,10 @@ Handled missing values and cleaned the data by filling missing values, removing 
 4. Basic Statistics:
 Calculated and visualized basic statistics such as the average price of listings, distribution of property types, and distribution of neighborhoods.
 5. Visualization:
-6. Created visualizations using Matplotlib and Seaborn libraries to explore relationships and trends in the data, including price distributions, room type preferences, and the number of listings by neighborhood.
-7. Correlation Analysis:
+Created visualizations using Matplotlib and Seaborn libraries to explore relationships and trends in the data, including price distributions, room type preferences, and the number of listings by neighborhood.
+6. Correlation Analysis:
 Investigated correlations between different features to identify relationships, such as the correlation between the number of bedrooms and the price, or the impact of reviews on booking rates.
-8. Data Insights:
+7. Data Insights:
 Summarized findings and provided insights from the analysis, including interesting patterns, trends, popular neighborhoods, and factors influencing listing prices.
 9. Conclusion:
 The exploratory data analysis provided valuable insights into the Airbnb activity in Seattle. The analysis shed light on the characteristics of listings, seasonal trends, and factors influencing pricing and booking rates. The findings can inform decision-making for both hosts and guests, and serve as a foundation for further analysis and modeling.
